@@ -1,0 +1,32 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <title>Gallery-Orion Fan Site</title>
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav>
+      <a href="/gallery.html" class='nav-link'>Gallery</a>
+      <a href="/index.html" class='nav-link' id='homelink'>Home</a>
+    </nav>
+    <h1 class="gh">Gallery</h1>
+    <h3>Look upon his beautiful image(s)</h3>
+    <br>
+    <section class='gallery-block'>
+      <img src="https://i.imgur.com/S8zNSOg.jpegn" height="400px" alt="Orion sitting in a cauldon, surrounded by magic items." class='gallery-img'>
+      <img src="https://i.imgur.com/JONYFTx.jpeg" height="400px" alt="A polaroid of Orion laying in a cat tree." class='gallery-img'>
+      <img src="https://i.imgur.com/oPw9wA0.jpeg" height="400px" alt="Orion sits on the floor, looking out from behind a blue chair." class='gallery-img'>
+      <img src="https://i.imgur.com/fxBNCg3.jpeg" height="400px" alt="Orion, a giant black cat in a forest, with glowing purple eyes." class='gallery-img'>
+      <img src="https://i.imgur.com/oioWxHS.jpeg" height="400px" alt="A black and white photo of Orion, framed by out of focus furnature." class='gallery-img'>
+      <img src="https://i.imgur.com/WTlUwCM.jpeg" height="400px" alt="A photo of a tiny Orion in a forest, looking up at a butterfly bigger than him." class='gallery-img'>
+      </section>
+  <footer>
+    <br><br>
+       <a href="/toebeans.html">
+        <img src="https://i.imgur.com/8yzZLEq.png" alt="Description of Image" height="100px">
+      </a>
+    </footer>
+  </body>
+</html>
