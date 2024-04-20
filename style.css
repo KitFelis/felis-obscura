@@ -1,0 +1,166 @@
+* {
+  margin: 0 0;
+  
+}
+
+body {
+  background-color: #111;
+  background-image: url("https://i.imgur.com/C2tMEng.jpeg");
+  background-size: 2000px;
+  padding: 25px;
+  font-family: fantasy;
+  text-align: center;
+  margin: auto;
+}
+
+nav {
+  background-image: url('https://i.imgur.com/xOaPWhZ.png');
+  background-size: cover;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  z-index: 10;
+  width: 2000px;
+  height: 250px;
+  padding: 20px 10px 10px;
+  text-align: right;
+}
+
+h1 {
+  color: lightgreen;
+  font-family: times new roman;
+ font-size: 100px;
+ text-align: center;
+}
+
+h5 {
+  color: lavender;
+}
+
+.banner {
+  margin: 70px auto 30px;
+  display: block;
+  
+}
+
+p {
+  color: lavender;
+  margin-top: 5px;
+}
+
+.subheading {
+  text-align: center;
+  font-size: 25px;
+  padding: 40px;
+  margin: 0 auto;
+  max-width: 1000px;
+  min-width: 600px;
+}
+
+.nav-link {
+  color: black;
+  font-family: georgia;
+  font-size: 30px;
+  font-weight: bold;
+  position: absolute;
+  right: 150px;
+  background-color:  hsl(0,0%,75%,75%);
+  padding: 5px;
+  margin: 5px;
+  border-radius: 4px;
+  
+}
+
+.nav-link:hover {
+  color: purple;
+}
+
+#homelink {
+  position: absolute;
+  right: 280px;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #647;
+}
+
+h3 {
+  font-size: 35px;
+  color: lavender;
+}
+
+.best {
+  margin: 5px auto;
+  width: 500px;
+  border: 5px dotted white;
+  background-color: #222;
+}
+
+.traits-list {
+  color: lightgreen;
+  font-size: 30px; 
+  border: 5px dotted white;
+  padding: 40px 10px;
+  width: 500px;
+  margin: 0 auto;
+  list-style: inside;
+  background-image: url('https://i.imgur.com/S8zNSOg.jpegn');
+  background-size: cover;
+} 
+
+
+.list-content {
+  position: relative;
+}
+
+.gh {
+  margin: 70px auto 50px;
+}
+
+.gallery-block {
+  min-width: 800px;
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: scroll;
+
+}
+
+
+.gallery-img {
+  border: 8px solid #869;
+  border-radius: 15px;
+  padding: 0px;
+  margin: auto;
+}
+
+
+
+.toebeans {
+  font-size: 100px;
+  margin: 50px auto;
+  max-width: 800px;
+}
+
+.nose-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.nose-bg {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 500px;
+  height: auto;
+  z-index: 1;
+}
+
+.nose-content {
+  position: relative;
+  height: 500px;
+  z-index: 10;
+  
+}
+
