@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Orion Fan Site</title>
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="/gallery.html" class='nav-link'>Gallery</a>
+      <a href="/index.html" class='nav-link' id='homelink'>Home</a>
+    </nav>
+    <br>
+    <img src="https://i.imgur.com/teNt5Ng.jpg" height='500px' class='banner' alt="A beautiful photo of Orion with his mouth open, on the right side of the photo are the words Orion Fan Site.">
+  </header>
+  <main>
+    <section>
+      <article>
+      <p class='subheading'>Orion is the best cat in all existance. He is a void cat who loves to yell and yawn. He will try to cuddle with you in the most incovienent times and you have to accept it because it's against the law not to.</p>
+      </article>
+  </section>
+  <br>
+  <section class='best-traits'>
+    <h2 class='best'>Best Traits</h2>
+
+    <div class="image-wrap">
+      <div class="list-content">
+    <ul class='traits-list'>
+      <li>Incredibly Well Spoken</li>
+      <li>Beautiful Black Fur</li>
+     <li>He's a foodie with a broad pallette</li>
+      <li>Has the cutiest toe beans</li>
+      <li>He's very chill</li>
+    </ul>
+      </div>
+    </div>
+    </section>
+    <br><br>
+    <section class='questions'>
+      <h2>Questions for Orion</h2>
+      <p class='subheading'>If you have questions for the best kitty ever, write them below! Orion will get back to you after his nap.</p>
+       <form method="POST" action="/index.html">
+      <input name="question" type="textfield" placeholder="what's your question?">
+      <button>Go</button>
+    </form>
+    </section>
+    </main>
+    <br><br>
+    <footer>
+      <a href="/toebeans.html">
+        <img src="https://i.imgur.com/8yzZLEq.png" alt="Orion's toe beans'" height="100px">
+      </a>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
